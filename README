@@ -1,1 +1,2 @@
 Displays weather for current location based on data that is extracted via regex.
+(App no longer works because google shut down their weather API.)
